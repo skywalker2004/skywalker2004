@@ -33,18 +33,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kelvin&show_icons=true&theme=tokyonight" alt="kelvin" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kelvin&theme=tokyonight" alt="kelvin streak" />
-</p>
-
----
-
 ### 📌 Featured Projects (2024–2025)
 
 - 🔗 [Portfolio Website](https://yourportfolio.com)  
