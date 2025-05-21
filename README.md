@@ -11,9 +11,9 @@
 
 - 💻 I build **websites**, **mobile apps**, and **designs** that turn ideas into business-ready solutions.
 - 🎯 I focus on **clean code**, **user-friendly design**, and **measurable results**.
-- 🌱 Currently learning **Next.js** and **Figma-to-Code workflows**
-- ✍️ I share dev tips and mini-projects on [Reddit](https://reddit.com/) & [LinkedIn](https://linkedin.com/)
-- 🛠️ Freelancer on [Upwork](https://www.upwork.com/freelancers/~01936fdbc25816d7bf) | [Gumroad Templates](https://gumroad.com/) | [Notion Dashboard](#)
+- 🌱 Currently exploring **Next.js** and **Figma-to-Code workflows** (mid-2024)
+- ✍️ Sharing dev tips and mini-projects throughout **2024–2025** on [Reddit](https://reddit.com/) & [LinkedIn](https://linkedin.com/)
+- 🛠️ Active freelancer in **2024–2025** on [Upwork](https://www.upwork.com/freelancers/~01936fdbc25816d7bf) | [Gumroad Templates](https://gumroad.com/) | [Notion Portfolio](#)
 
 ---
 
@@ -45,16 +45,16 @@
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Projects (2024–2025)
 
 - 🔗 [Portfolio Website](https://yourportfolio.com)  
-  `HTML` `Vue` `PHP` | Multi-page responsive personal portfolio site
+  `HTML` `Vue` `PHP` | Responsive personal site built in **2024**
 
 - 📱 [Android App: Task Manager](https://github.com/kelvin/task-manager-app)  
-  `Java` `Firebase` | To-do app with authentication and cloud sync
+  `Java` `Firebase` | Productivity app with authentication and cloud sync (ongoing improvements in **2025**)
 
 - 🧰 [Graphic Kit](https://gumroad.com/)  
-  Editable logos, social post templates, and ad creatives for small businesses
+  Editable design assets for businesses — logos, posts, ad creatives (refreshed in **2024**)
 
 ---
 
@@ -68,10 +68,4 @@
 
 ---
 
-<h4 align="center">Let’s Build. Design. Launch. 🚀</h4>
-
-
-<!---
-skywalker2004/skywalker2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h4 align="center">Let’s Build. Design. Launch. 🚀 — 2024 & Beyond</h4>
