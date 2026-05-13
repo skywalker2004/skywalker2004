@@ -18,16 +18,25 @@
 ### 🛠 Tech Stack
 
 **Frontend:**  
-`HTML` `CSS3` `JavaScript` `Vue.js` `Bootstrap`  
+`HTML` `CSS3` `JavaScript` `Vue.js` `Bootstrap`  `React.js` `Tailwind CSS` 
 
 **Backend:**  
-`PHP` `Laravel` `MySQL` `Firebase` `REST APIs`  
+`PHP` `Laravel` `REST APIs`  `Node.js` `Express.js`
 
+**Databases:**
+ `MySQL` `Firebase` `MongoDB`
+ 
 **Mobile:**  
-`Android (Java/Kotlin)`  
+`Android (Java,Kotlin,Jetpack Compose)`  
+
+**DevOps & Tools:**
+`Git` `GitHub` `Docker` (Basic), `Postman` `VS Code` `Linux CLI`
 
 **Design & Tools:**  
 `Figma` `Adobe Illustrator` `Canva` `Notion`  
+
+**Additional Skills:**
+`API Integration` `Authentication` (JWT/Firebase Auth), `Responsive Design` `Version Control` `Basic CI/CD Concepts`
 
 ---
 
