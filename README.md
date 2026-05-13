@@ -33,8 +33,8 @@
 
 ### 📌 Featured Projects (2024–2025)
 
-- 🔗 [Portfolio Website](https://yourportfolio.com)  
-  `HTML` `Vue` `PHP` | Responsive personal site built in **2024**
+- 🔗 [Portfolio Website](https://kelvin-kiprono-portfolio.vercel.app)  
+  `HTML` `React``typeskript``css``bootstrap` `PHP` | Responsive personal site built in **2024**
 
 - 📱 [Android App: Task Manager](https://github.com/kelvin/task-manager-app)  
   `Java` `Firebase` | Productivity app with authentication and cloud sync (ongoing improvements in **2025**)
