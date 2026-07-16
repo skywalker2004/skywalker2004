@@ -40,7 +40,7 @@
 
 ---
 
-### 📌 Featured Projects (2024–2025)
+### 📌 Featured Projects
 
 - 🔗 [Portfolio Website](https://kelvin-kiprono-portfolio.vercel.app)  
   `HTML` `React``typeskript``css``bootstrap` `PHP` | Responsive personal site built in **2024**
