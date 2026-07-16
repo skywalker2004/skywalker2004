@@ -9,9 +9,9 @@
 
 - 💻 I build **websites**, **mobile apps**, and **designs** that turn ideas into business-ready solutions.
 - 🎯 I focus on **clean code**, **user-friendly design**, and **measurable results**.
-- 🌱 Currently exploring **Next.js** and **Figma-to-Code workflows** (mid-2024)
+- 🌱 Exploring **Next.js** and **Figma-to-Code workflows**.
 - ✍️ Sharing dev tips and mini-projects throughout **2024–2025** on [Reddit](https://reddit.com/) & [LinkedIn](https://linkedin.com/)
-- 🛠️ Active freelancer in **2024–2025** on [Upwork](https://www.upwork.com/freelancers/~01936fdbc25816d7bf) | [Gumroad Templates](https://gumroad.com/) | [Notion Portfolio](#)
+- 🛠️ Active freelancer in on [Upwork](https://www.upwork.com/freelancers/~01936fdbc25816d7bf) | [Gumroad Templates](https://gumroad.com/) | [Notion Portfolio](#)
 
 ---
 
